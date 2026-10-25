@@ -1,7 +1,7 @@
 {
   "schemaVersion": "operations-campaign-library.v1",
   "provider": "coesite-operations",
-  "revision": "2026-10-22",
+  "revision": "2026-10-25",
   "campaigns": [
     {
       "id": "form-operating-cell",
@@ -250,42 +250,42 @@
         {
           "id": "receive-routine-marketing-intelligence",
           "ownerOffice": "configured-commissioning-office",
-          "effect": "At every ordinary operating recurrence (without waiting for a fresh Leader prompt), recover CURRENT Fastmail or connected inbound seller and customer requests, previously qualified supplier intelligence, original Web estate audit cases with their source-owner dispositions, original Search Console/Cloudflare/provider measures if actually accessible, current genuine audience/search enquiries, and previous marketing Work. Join messages and repeated audit IDs into their one existing owning Work; a source email is not independent HTTP proof, current code state, new customer, contract or permission to publish."
+          "effect": "At every ordinary operating recurrence (without waiting for a fresh Leader prompt), recover CURRENT Fastmail or connected inbound seller and customer requests, previously qualified supplier intelligence, original Web estate audit cases with their source-owner dispositions, original Search Console/Cloudflare/provider measures if actually accessible, current genuine audience/search enquiries, and previous marketing Work. Join messages and repeated audit IDs into their one existing owning Work; a source email is not independent HTTP proof, current code state, new customer, contract or permission to publish. For a major external event, resolve its identity, scope, occurrence/disclosure/update dates and primary sources in the existing Work; distinguish separate incidents, observations, reported claims, inference and superseded accounts. Retain correction links and uncertainty. Event qualification applies when event relevance is claimed; ordinary non-event marketing continues without an event requirement."
         },
         {
           "id": "commission",
           "ownerOffice": "configured-commissioning-office",
-          "effect": "Recover original marketing Work, accountable contracting principal, genuine audience need, correct service/offering owner and documented desired beneficiary result; no task is authorized by a calendar tactic or channel suggestion."
+          "effect": "Recover original marketing Work, accountable contracting principal, genuine audience need, correct service/offering owner and documented desired beneficiary result; no task is authorized by a calendar tactic or channel suggestion. For event-related Work, name each materially distinct audience need and the Group's relevant research, demonstrated capability, available service or experience. Decline a promotional association supported only by traffic or distress. Separately route actual operational exposure or customer harm to its existing accountable owner; urgent repair does not wait for a marketing asset."
         },
         {
           "id": "qualify-claims",
           "ownerOffice": "configured-claims-owner",
-          "effect": "Obtain original commercial/scientific/editorial claim source, exact revision, proof status, value/price/availability, image/text license and contrasting unsupported claims; a creative cannot make a claim true."
+          "effect": "Obtain original commercial/scientific/editorial claim source, exact revision, proof status, value/price/availability, image/text license and contrasting unsupported claims; a creative cannot make a claim true. Bind every material event-to-offer connection to dated original evidence and the exact Group source, distinguishing research proposition, demonstrated prototype, qualified service, available offer and observed customer result. Prefer corrected authoritative accounts over earlier headlines, preserve disagreement and do not turn theoretical relevance into a security or outcome guarantee."
         },
         {
           "id": "qualify-web-discoverability-and-answerability",
           "ownerOffice": "configured-claims-owner",
-          "effect": "Read original Red Cup Web Engineering standards/SEO/answerability audit outputs and Causeway site/content/estate registry on their exact current revisions. Qualify crawlability, robots and indexing, canonical links, schema and organization/product identities, source attribution, real content readable by people and answer engines, accessibility and useful offer paths; if available compare actual provider Search Console and independently observed public citations. A missing answer-engine citation, unobserved ranking, invented customer reach or one llms.txt presence is NOT proven search performance. Check prior source-owner dispositions before recommending fixes: intentionally unopened casino 503 is not a failure to turn into 200, and unsupported Play LIVE_SUBDOMAINS cannot be repaired by editing imaginary code."
+          "effect": "Read original Red Cup Web Engineering standards/SEO/answerability audit outputs and Causeway site/content/estate registry on their exact current revisions. Qualify crawlability, robots and indexing, canonical links, schema and organization/product identities, source attribution, real content readable by people and answer engines, accessibility and useful offer paths; if available compare actual provider Search Console and independently observed public citations. A missing answer-engine citation, unobserved ranking, invented customer reach or one llms.txt presence is NOT proven search performance. Check prior source-owner dispositions before recommending fixes: intentionally unopened casino 503 is not a failure to turn into 200, and unsupported Play LIVE_SUBDOMAINS cannot be repaired by editing imaginary code. Carry accepted event explanations into the original relevant service documentation, examples, FAQs and canonical evidence pages, with durable source links, dates and explicit available actions. Make these readable to people and machine consumers; a campaign landing page alone does not update stale product documentation or establish Web discovery."
         },
         {
           "id": "form-message",
           "ownerOffice": "configured-marketing-producer",
-          "effect": "Select source-qualified honest message, audience/context and actual customer job; keep rejected and pending creative revisions separate from approvals, inspect conflict of interest and prohibited audience/recipient practices."
+          "effect": "Select source-qualified honest message, audience/context and actual customer job; keep rejected and pending creative revisions separate from approvals, inspect conflict of interest and prohibited audience/recipient practices. For each distinct audience, express its actual need, the useful contribution, supporting evidence and a fitting next action: learn, inspect a demonstration, request a qualified service, or join an appropriate community or world. Use concrete achievable help and honest limits to support hope; do not reuse one alarm-driven message across unrelated services or present every path as a purchase."
         },
         {
           "id": "independent-review",
           "ownerOffice": "configured-independent-assayer",
-          "effect": "Receive source/right/claims/editorial checks and refusal/hold/resolution from accountable distinct reviewer; the creator's assent or one model wearing two masks is not independent review."
+          "effect": "Receive source/right/claims/editorial checks and refusal/hold/resolution from accountable distinct reviewer; the creator's assent or one model wearing two masks is not independent review. For event-related claims, review identity, chronology, causal attribution, corrected sources, actual service fit and readiness, and the proposed correction path across derivative placements."
         },
         {
           "id": "choose-channels",
           "ownerOffice": "configured-distribution-steward",
-          "effect": "Compare original owned, RSS/ActivityPub, qualified public or opted-in outreach and context-only house ad channels with correct existing installed providers; do not invent consent, followers, ad publishers or signed offers."
+          "effect": "Compare original owned, RSS/ActivityPub, qualified public or opted-in outreach and context-only house ad channels with correct existing installed providers; do not invent consent, followers, ad publishers or signed offers. Select differentiated assets and existing places where each audience can use them, including explanation, technical evidence, service documentation, an offer or a relevant community experience. Link them by their actual subject and purpose; neither indiscriminate duplication nor an invented mandatory funnel demonstrates attention."
         },
         {
           "id": "allocate-recurring-marketing-and-web-work",
           "ownerOffice": "task-dispatcher",
-          "effect": "From source-qualified existing Web incidents, genuine consented seller leads, current offer status and research/creative production, allocate bounded available attention to ORIGINAL Work/Office/Engineering publisher: fix a demonstrable crawl/render/checkout failure, improve one real customer-facing explanation, qualify outside seller onboarding, or use an already permitted channel. Prioritize receiver-visible harm and earning opportunity over new reports or metadata volume; verify real staffed capacity, business/customer acceptance, data rights and withdrawal. Use the existing Coesite service-order and original Marketing Work identity. Do not automatically spend, send mail, invent SEO lift, launch gambling service or create duplicate daily tickets."
+          "effect": "From source-qualified existing Web incidents, genuine consented seller leads, current offer status and research/creative production, allocate bounded available attention to ORIGINAL Work/Office/Engineering publisher: fix a demonstrable crawl/render/checkout failure, improve one real customer-facing explanation, qualify outside seller onboarding, or use an already permitted channel. Prioritize receiver-visible harm and earning opportunity over new reports or metadata volume; verify real staffed capacity, business/customer acceptance, data rights and withdrawal. Use the existing Coesite service-order and original Marketing Work identity. Do not automatically spend, send mail, invent SEO lift, launch gambling service or create duplicate daily tickets. Allocate event implications to their original research, Engineering, service, public-documentation and Marketing owners, with useful outputs and receiving conditions. Reuse the persistent attention endeavor and ordinary operating cadence after a bounded event campaign; create neither a per-event scheduler nor duplicate Work. An unrelated or unresolved event claim does not suspend independent non-event work."
         },
         {
           "id": "approve-effect",
@@ -295,7 +295,7 @@
         {
           "id": "publish",
           "ownerOffice": "configured-authorized-publisher",
-          "effect": "Release only against actual original publisher/host and revision while preserving external identity and material-connection disclosures, then separately observe real deployment/channel publication response."
+          "effect": "Release only against actual original publisher/host and revision while preserving external identity and material-connection disclosures, then separately observe real deployment/channel publication response. Record the actual placement and its source, claim and creative revisions in original Work, linking derivative assets to their canonical explanation and service owner so material corrections can reach every affected placement."
         },
         {
           "id": "observe-receiving",
@@ -305,12 +305,12 @@
         {
           "id": "evaluate",
           "ownerOffice": "configured-commissioning-office",
-          "effect": "Compare observed metrics with defined eligible audience/placement denominator, baseline, bounded campaign window and privacy limits; allocate further lawful attention or correct message/offer at original owner. Compare qualified search/answer visibility and legitimate buyer task success on subsequent cycles, carrying unresolved owner dispositions into next routine allocation; do not regenerate refuted root causes."
+          "effect": "Compare observed metrics with defined eligible audience/placement denominator, baseline, bounded campaign window and privacy limits; allocate further lawful attention or correct message/offer at original owner. Compare qualified search/answer visibility and legitimate buyer task success on subsequent cycles, carrying unresolved owner dispositions into next routine allocation; do not regenerate refuted root causes. Separate temporary event interest from retained useful attention, qualified inquiries, accepted service outcomes and repeat participation. Carry dated audience questions, useful documentation improvements and unresolved needs into the next ordinary cycle; do not treat publication volume, generated engagement or unobserved conversions as cultivated attention."
         },
         {
           "id": "stop-or-renew",
           "ownerOffice": "configured-authorized-publisher",
-          "effect": "Observe expiry, claim change, opt-out, revoked grant, complaint or negative recipient response; withdraw/suppress/suspend across exact original channels, preserve audit and independent retest, renew only with source/current authority."
+          "effect": "Observe expiry, claim change, opt-out, revoked grant, complaint or negative recipient response; withdraw/suppress/suspend across exact original channels, preserve audit and independent retest, renew only with source/current authority. When a material source or service claim changes, enumerate affected linked placements and documentation, assign correction or withdrawal to each actual publisher, and verify receiving while retaining superseded provenance and unresolved destinations. Close the event window without discarding still-useful documentation, consented relationships or the continuing attention endeavor."
         },
         {
           "id": "receive",
@@ -320,7 +320,7 @@
         {
           "id": "reconcile",
           "ownerOffice": "corporate-secretary",
-          "effect": "Preserve original Work, campaign/creative/review/source/host/recipient revisions and true costs in existing work and finance/merchant ledgers, return unmet gate and curriculum need to actual owner."
+          "effect": "Preserve original Work, campaign/creative/review/source/host/recipient revisions and true costs in existing work and finance/merchant ledgers, return unmet gate and curriculum need to actual owner. Return reusable event distinctions, audience needs, legitimate service connections, correction history and actual receiving evidence to the existing knowledge and Work owners for later events. Preserve one original inquiry, customer and transaction across multiple placements."
         }
       ],
       "completion": "At least one independently evidenced correctly authorized source-qualified campaign placement or publication contributes to a measured beneficiary/eligible audience receiving condition; customer and finance outcomes are observed separately, and all required withdrawal/rights gates remain valid.",
