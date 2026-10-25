@@ -250,17 +250,17 @@
         {
           "id": "commission",
           "ownerOffice": "configured-commissioning-office",
-          "effect": "Recover original marketing Work, accountable contracting principal, genuine audience need, correct service/offering owner and documented desired beneficiary result; no task is authorized by a calendar tactic or channel suggestion."
+          "effect": "Recover original marketing Work, contracting principal, qualified actual consumer, seller-owned current offer/source and the original buyer or beneficiary need; read dated permitted Group/client instance Web/venue observations instead of selecting a payment protocol, channel tactic, launch quota or fictional interested customer as the commission. Buyers may be people, organizations or authorized agents; one customer may buy through any correctly supported origin."
         },
         {
           "id": "qualify-claims",
           "ownerOffice": "configured-claims-owner",
-          "effect": "Obtain original commercial/scientific/editorial claim source, exact revision, proof status, value/price/availability, image/text license and contrasting unsupported claims; a creative cannot make a claim true."
+          "effect": "Read the original commercial/scientific/editorial claim, product/edition/service identity, version, real legal seller, current price/terms, proven supply/entitlement and content rights from its source; record contrary, unknown, outdated or unsupported claims and actual independently witnessed customer-visible behavior. A Buy control, live catalog, 402 or a drafted creative never proves buyer payment, delivery or a contract."
         },
         {
           "id": "form-message",
           "ownerOffice": "configured-marketing-producer",
-          "effect": "Select source-qualified honest message, audience/context and actual customer job; keep rejected and pending creative revisions separate from approvals, inspect conflict of interest and prohibited audience/recipient practices."
+          "effect": "Make a source-qualified audience-and-job-specific message whose value, sample, cost, current delivery and substitute are intelligible to the intended human, business or agent buyer; preserve rejected/pending copy, disclosure and conflicting sources. Do not use one agent-payment API explanation as copy for a book, enterprise invoice, membership or human checkout."
         },
         {
           "id": "independent-review",
@@ -270,7 +270,7 @@
         {
           "id": "choose-channels",
           "ownerOffice": "configured-distribution-steward",
-          "effect": "Compare original owned, RSS/ActivityPub, qualified public or opted-in outreach and context-only house ad channels with correct existing installed providers; do not invent consent, followers, ad publishers or signed offers.",
+          "effect": "Compare dated receiver-owned buyer/referral observations and permitted owned Web/search, current original Shop/product detail, multi-seller Bazaar, Market dashboard, topic/editorial/RSS/ActivityPub, opt-in community/direct customer channels, machine registries and eligible third-party distribution; none is an obligatory funnel hop, buyer species or new external storefront requirement. Confirm genuine current seller/venue, compatible purchase rail and sourced channel permission before proposing an effect; independent low-effect research can run after formed message without waiting on publication review. Do not invent indexing, traffic, consent, followers or merchant authorization.",
           "after": [
             "form-message"
           ]
@@ -292,12 +292,12 @@
         {
           "id": "observe-receiving",
           "ownerOffice": "configured-independent-assayer",
-          "effect": "Distinguish built creative, scheduled job, publisher ACK, physically served placement, aggregate response, actual human or agent receipt, authorized request, accepted useful output and settled purchase; separate missing data and disagreement."
+          "effect": "Retain original offer/order/source and visitor/recipient/campaign identities across permitted Shop, Bazaar, Market and off-site discovery; independently distinguish source creative, accepted publisher revision, physically served placement, observed eligible referral or search impression, legitimate interest/inquiry, current quote or authorized checkout attempt, settled outside payer, independently delivered and accepted output/entitlement, refund and renewed buyer. 402 health probes, bots, internal payments and self-sends are not purchases. Inaccessible provider analytics are unknown, not zero."
         },
         {
           "id": "evaluate",
           "ownerOffice": "configured-commissioning-office",
-          "effect": "Compare observed metrics with defined eligible audience/placement denominator, baseline, bounded campaign window and privacy limits; allocate further lawful attention or correct message/offer at original owner."
+          "effect": "Compare each source-qualified buyer journey's observed eligible audience, original offer, supported payment type, stage-specific loss, competitor/free substitute, actual incoming paid accepted outcome and cost/attention under dated matched denominators. Maintain separate near-cash and sustainable repeat/net buyer hypotheses, with unobserved traffic, prices or conversion probabilities left unknown. Reallocate or repair at original seller, publisher, Engineering or Marketing provider; posting volume alone is no success."
         },
         {
           "id": "stop-or-renew",
@@ -307,12 +307,12 @@
         {
           "id": "receive",
           "ownerOffice": "consumer",
-          "effect": "Original beneficiary/commissioner independently judges whether marketing made original useful Work more discoverable and receivable, refuses misleading measurements and returns correct outcomes to original seller/public owner."
+          "effect": "Original consumer, legal seller or competent independent reviewer judges the actual *audience or buyer* benefit from an authorized channel, current direct buy journey or genuine relationship, with source-bound publication and effect witnesses; economic completion requires independently accepted delivered goods/services and separately booked external settlement. An indexed page, source PR, advertised checkout, multi-seller listing or one-time trial may be valid partial work, never a false full outcome."
         },
         {
           "id": "reconcile",
           "ownerOffice": "corporate-secretary",
-          "effect": "Preserve original Work, campaign/creative/review/source/host/recipient revisions and true costs in existing work and finance/merchant ledgers, return unmet gate and curriculum need to actual owner."
+          "effect": "Return original Work, source/creative/review, current venue/channel and permission revisions, actual independent recipient/merchant order and refund IDs, paid payer and cost evidence to the original Group/client Public and CFO records; one sale reused across Shop, Bazaar, Market, partner links or house brands is ONE original transaction, not repeat outside revenue. Preserve cancellation, missing observations and unreceived upstream blockers for next real campaign; never copy client-instance secrets, buyer data or ledger custody into Coesite's reusable template."
         }
       ],
       "completion": "At least one independently evidenced correctly authorized source-qualified campaign placement or publication contributes to a measured beneficiary/eligible audience receiving condition; customer and finance outcomes are observed separately, and all required withdrawal/rights gates remain valid.",
