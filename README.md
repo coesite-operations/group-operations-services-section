@@ -18,5 +18,5 @@ and by Red Cup AOE `operating-cell-plan`.
 The executable code that was formerly here (the `@561-group/group-operations` MetroPlat application: `src/`,
 `scripts/`, `test/`, `package.json`) moved on 2026-10-23 to
 [red-cup-engineering/group-operations-application](https://github.com/red-cup-engineering/group-operations-application).
-Coesite pins this repository as a submodule at `apps/group-operations` of
-`coesite-operations/operations-services-section`.
+Coesite pins this repository as a submodule at `services/group-operations-services-section` of
+[`coesite-operations/operations-services-section`](https://github.com/coesite-operations/operations-services-section). The parent's separate `apps/group-operations` directory is an ordinary, divergent source tree, **not** this data mount; do not use it as a second operation-data authority. Executable receiving belongs to the Red Cup application named above.
